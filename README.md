@@ -49,3 +49,4 @@ git flow release finish <x.x.x> # Merge release into main and develop
 git flow hotfix start <x.x.x>  # Start a hotfix branch
 git flow hotfix finish <x.x.x> # Finish hotfix and merge into main & develop
 Testing the post-merge hook.
+Testing the post-merge hook.
